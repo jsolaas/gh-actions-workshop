@@ -1,3 +1,5 @@
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jsolaas/gh-actions-workshop/build-pr.yml)
+
 # CI/CD workshop using Github actions
 
 ## Workshop
